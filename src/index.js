@@ -8,9 +8,9 @@ import path from "path";
 import http from "http";
 const app = express();
 const server = http.createServer(app);
-import pkg from "body-parser";
+import bodyParser from "body-parser";
+const { json } = bodyParser;
 dotenv.config();
-const { json } = pkg;
 
 import { Server } from "socket.io";
 

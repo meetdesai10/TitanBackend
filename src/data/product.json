@@ -1,0 +1,823 @@
+[
+  {
+    "gender": "male",
+    "price": 7442.0,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmGjETgJpDjRzww9Xck8fnh4ymelpT0JPBKynr-DVaXZ8L49xXg3CuIUsGYJrqTXKkjbkWTl2UjyZ7P1aXZbzb2STRs3z0ptx3SRoREAO61D4QBgFmNP8T_w&usqp=CAE",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6FmdcFNr80k8pB_CADt00Ns0yB4QNwjRtMO-_r6_Boekjx7AlUTlkqITncearGVyf_1CKlFNlbBspSSgF8TDaL1OSsYyw3khBYRIZut0&usqp=CAE",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpGiltrREswkC33btfkEbg0DXWCxYohLl26vuguVOLKJZl-vu0CbkHG0fdi8-80kNiAMMycuEWJcDUaOMUIKKE0xXD2AksgXzKMf0bi9_o0gMomoEzknMMB54&usqp=CAE",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT25acgEPcm7WoWvguvN_9TTp0YnoASmSfm0hRgmSLszZyU4ddqDBpxYLujYnMDGlIkDyop7nbq_IRnd6pQC65wBIgjg0K-HkRuleHbZG8PgR2jHJdcV5vFmQ&usqp=CAE",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZXcJ6PalJyRN66NLBYh5umckhMnjXs6AtGOc_VTKenl31I036JMtyu1BzhBYb3BxVdHD4dsraO5KCCG-m3NzEo6xRCIzgWkah09D7JuqV6rES403xpOTDWA&usqp=CAE",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQZpiAhrJAAQCGUT2btYWWKxLVHC7OUshXH2nHKdJ8mxsU1m7FERruvXEjKKmTmbogaFqkvkMSRWkyHHGHa5eywzyL8MgfALbFibZl-bU_p&usqp=CAE"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 5595,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["Cloth"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe4c4118b/images/Titan/Catalog/1805QM01_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw1888ad40/images/Titan/Catalog/1805QM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdafad198/images/Titan/Catalog/1805QM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5b282ff9/images/Titan/Catalog/1805QM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd4554d4e/images/Titan/Catalog/1805QM01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfb2361b2/images/Titan/Catalog/1805QM01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 2755,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["party"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw4bbadaab/images/Titan/Catalog/1713BM02_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3e10e985/images/Titan/Catalog/1713BM02_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw80670437/images/Titan/Catalog/1713BM02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw44cfbe82/images/Titan/Catalog/1713BM02_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw893e34a1/images/Titan/Catalog/1713BM02_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwae493eae/images/Titan/Catalog/1713BM02_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 10880,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdb89d3af/images/Titan/Catalog/1830KL02_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw03be5536/images/Titan/Catalog/1830KL02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw583be8ec/images/Titan/Catalog/1830KL02_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9593bd18/images/Titan/Catalog/1830KL02_5.jpg?sw=800&sh=800",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5cabdd9a/images/Titan/Catalog/1830KL02_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 5075,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw65f44689/images/Titan/Catalog/1805QM04_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0814ec34/images/Titan/Catalog/1805QM04_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw169ccf6d/images/Titan/Catalog/1805QM04_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa418c108/images/Titan/Catalog/1805QM04_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb7513c89/images/Titan/Catalog/1805QM04_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwede26ab6/images/Titan/Catalog/1805QM04_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 2595,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe485817b/images/Titan/Catalog/1802NL02_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe485817b/images/Titan/Catalog/1802NL02_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa6dda5a1/images/Titan/Catalog/1802NL02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc54edec2/images/Titan/Catalog/1802NL02_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwabe2932b/images/Titan/Catalog/1802NL02_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb05c4531/images/Titan/Catalog/1802NL02_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 3195,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcfb00132/images/Titan/Catalog/1806NM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5b02c601/images/Titan/Catalog/1806NM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dweec59fdd/images/Titan/Catalog/1806NM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa32a4428/images/Titan/Catalog/1806NM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6025c84c/images/Titan/Catalog/1806NM01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw63fa07bc/images/Titan/Catalog/1806NM01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 37000,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw539d974f/images/Sonata/Catalog/77081PP04_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7a12d1df/images/Sonata/Catalog/77081PP04_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2fe3853b/images/Sonata/Catalog/77081PP04_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0159e5a9/images/Sonata/Catalog/77081PP04_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwbd6d87f3/images/Sonata/Catalog/77081PP04_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 7333,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["party"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw39ca4e4b/images/Titan/Catalog/1828KM02_3.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw4743ffe5/images/Titan/Catalog/1828KM02_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe32febfa/images/Titan/Catalog/1828KM02_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw26dedb25/images/Titan/Catalog/1828KM02_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwed607a11/images/Titan/Catalog/1828KM02_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw09cecdc5/images/Titan/Catalog/1828KM02_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 3995,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw98e4f736/images/Fastrack/Catalog/38101PP02_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw85697e70/images/Fastrack/Catalog/38101PP02_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc12fe37b/images/Fastrack/Catalog/38101PP02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc12fe37b/images/Fastrack/Catalog/38101PP02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd11226b5/images/Fastrack/Catalog/38101PP02_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8f344a54/images/Fastrack/Catalog/38101PP02_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe01867cb/images/Fastrack/Catalog/38101PP02_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 3530,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe4396685/images/Titan/Catalog/9162YL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw67b3ca77/images/Titan/Catalog/9162YL01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw71867e03/images/Titan/Catalog/9162YL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw56076737/images/Titan/Catalog/9162YL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw64fd4382/images/Titan/Catalog/9162YL01_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 13475,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw74274493/images/Titan/Catalog/90110WL03_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5a2a937b/images/Titan/Catalog/90110WL03_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf37dfd37/images/Titan/Catalog/90110WL03_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa188d02a/images/Titan/Catalog/90110WL03_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9576dfee/images/Titan/Catalog/90110WL03_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw359e2432/images/Titan/Catalog/90110WL03_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 6680,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw00d4f44c/images/Titan/Catalog/90146SL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw73cc1809/images/Titan/Catalog/90146SL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9c153f19/images/Titan/Catalog/90146SL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwde317183/images/Titan/Catalog/90146SL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8a151872/images/Titan/Catalog/90146SL01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 5075,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8f234adc/images/Titan/Catalog/1805QM05_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3e476a9f/images/Titan/Catalog/1805QM05_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw69833366/images/Titan/Catalog/1805QM05_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2612cddf/images/Titan/Catalog/1805QM05_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw81fb2a5a/images/Titan/Catalog/1805QM05_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 4432,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw47b5d0ee/images/Titan/Catalog/1877SL01_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfefaa8d1/images/Titan/Catalog/1877SL01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw203ccd85/images/Titan/Catalog/1877SL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw226b4607/images/Titan/Catalog/1877SL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw287a2a16/images/Titan/Catalog/1877SL01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe3f3ad1e/images/Titan/Catalog/1877SL01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 1595,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfdc77f80/images/Titan/Catalog/1802SL02_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwafacc0e1/images/Titan/Catalog/1802SL02_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw758b71e1/images/Titan/Catalog/1802SL02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw4a8260f1/images/Titan/Catalog/1802SL02_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwba807ce2/images/Titan/Catalog/1802SL02_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 7275,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["party"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwbaa32a75/images/Titan/Catalog/90077KM04_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2735424c/images/Titan/Catalog/90077KM04_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf16c00eb/images/Titan/Catalog/90077KM04_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwda675695/images/Titan/Catalog/90077KM04_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2159eaad/images/Titan/Catalog/90077KM04_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa8db763d/images/Titan/Catalog/90077KM04_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 1595,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["party"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwaefa29eb/images/Titan/Catalog/1639SM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw1ff456b1/images/Titan/Catalog/1639SM01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw1c53ad4d/images/Titan/Catalog/1639SM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe59a85a8/images/Titan/Catalog/1639SM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7c44b5fb/images/Titan/Catalog/1639SM01_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 11995,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["party"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwef1a0f86/images/Titan/Catalog/1688KM06_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw24efdaae/images/Titan/Catalog/1688KM06_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6279dccd/images/Titan/Catalog/1688KM06_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw94d45ace/images/Titan/Catalog/1688KM06_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw74a8b022/images/Titan/Catalog/1688KM06_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw296933bb/images/Titan/Catalog/1688KM06_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 2195,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6581415e/images/Titan/Catalog/1802NL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dweb4e78e2/images/Titan/Catalog/1802NL01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa520dbea/images/Titan/Catalog/1802NL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw22cbbcb8/images/Titan/Catalog/1802NL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcaec3611/images/Titan/Catalog/1802NL01_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 8780,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5deee81f/images/Titan/Catalog/90145WL01_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6263cc86/images/Titan/Catalog/90145WL01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0a9a3c4c/images/Titan/Catalog/90145WL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw34dbc594/images/Titan/Catalog/90145WL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa85162e4/images/Titan/Catalog/90145WL01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwde5a9321/images/Titan/Catalog/90145WL01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 13295,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf3693e28/images/Titan/Catalog/90148KD03_4.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw03299b88/images/Titan/Catalog/90148KD03_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0fb2e5d6/images/Titan/Catalog/90148KD03_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw177ae955/images/Titan/Catalog/90148KD03_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwced5b4c5/images/Titan/Catalog/90148KD03_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw91ba042b/images/Titan/Catalog/90148KD03_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 12980,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw84ae86f6/images/Titan/Catalog/1847KM01_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc989ca5e/images/Titan/Catalog/1847KM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw51d219c6/images/Titan/Catalog/1847KM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc178762f/images/Titan/Catalog/1847KM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcd8571fc/images/Titan/Catalog/1847KM01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw57300aff/images/Titan/Catalog/1847KM01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 4200,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw01e4771b/images/Helios/Catalog/LC06675499_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcb1d54a0/images/Helios/Catalog/LC06675499_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa818709e/images/Helios/Catalog/LC06675499_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3b7c60de/images/Helios/Catalog/LC06675499_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0b3cd092/images/Helios/Catalog/LC06675499_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb7c8452d/images/Helios/Catalog/LC06675499_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 10400,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw268477cc/images/Titan/Catalog/1830KL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2e90fa02/images/Titan/Catalog/1830KL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw032c305d/images/Titan/Catalog/1830KL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw4533f873/images/Titan/Catalog/1830KL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0efa9a90/images/Titan/Catalog/1830KL01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "male",
+    "price": 13475,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf2a74101/images/Fastrack/Catalog/3287NL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfeb43af6/images/Fastrack/Catalog/3287NL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9c925996/images/Fastrack/Catalog/3287NL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwff17f132/images/Fastrack/Catalog/3287NL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw42f15eeb/images/Fastrack/Catalog/3287NL01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 50200,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw026f3f16/images/Titan/Catalog/2606WM08_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5487e70b/images/Titan/Catalog/2606WM08_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5487e70b/images/Titan/Catalog/2606WM08_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw16856d44/images/Titan/Catalog/2606WM08_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7e7917ca/images/Titan/Catalog/2606WM08_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0bd18d96/images/Titan/Catalog/2606WM08_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw95129e0b/images/Titan/Catalog/2606WM08_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw23cca3bf/images/Titan/Catalog/2606WM08_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 1595,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf87788bb/images/Titan/Catalog/2656WL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf87788bb/images/Titan/Catalog/2656WL01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3726b5b9/images/Titan/Catalog/2656WL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw97e61772/images/Titan/Catalog/2656WL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0ec8ea66/images/Titan/Catalog/2656WL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2a3c4e9e/images/Titan/Catalog/2656WL01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 2180,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf8bcd99c/images/Titan/Catalog/2656WM01_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6c9df22a/images/Titan/Catalog/2656WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6c9df22a/images/Titan/Catalog/2656WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw28001b41/images/Titan/Catalog/2656WM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd4bb552c/images/Titan/Catalog/2656WM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8fc71fe3/images/Titan/Catalog/2656WM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfb2bec53/images/Titan/Catalog/2656WM01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9325b3a4/images/Titan/Catalog/2656WM01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 3655,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwed38bfc8/images/Titan/Catalog/2642WM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwed38bfc8/images/Titan/Catalog/2642WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf1dc3eeb/images/Titan/Catalog/2642WM01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb0cd08cf/images/Titan/Catalog/2642WM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2ec37896/images/Titan/Catalog/2642WM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfc822b41/images/Titan/Catalog/2642WM01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 5995,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf9b3309c/images/Titan/Catalog/2629KM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf9b3309c/images/Titan/Catalog/2629KM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw693f4368/images/Titan/Catalog/2629KM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0848f7ad/images/Titan/Catalog/2629KM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8d9f58ab/images/Titan/Catalog/2629KM01_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 5140,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwaf4674ab/images/Titan/Catalog/2644KM02_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfb8dc766/images/Titan/Catalog/2644KM02_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfb8dc766/images/Titan/Catalog/2644KM02_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw434cec59/images/Titan/Catalog/2644KM02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5db17488/images/Titan/Catalog/2644KM02_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2b439dac/images/Titan/Catalog/2644KM02_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf5a01f49/images/Titan/Catalog/2644KM02_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc325c476/images/Titan/Catalog/2644KM02_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 5840,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw441439ce/images/Titan/Catalog/2606WM09_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw441439ce/images/Titan/Catalog/2606WM09_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8f3682c0/images/Titan/Catalog/2606WM09_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0cb2c21e/images/Titan/Catalog/2606WM09_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5bc5477e/images/Titan/Catalog/2606WM09_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwbca57f22/images/Titan/Catalog/2606WM09_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw1445307f/images/Titan/Catalog/2606WM09_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 5295,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd7e7c27e/images/Titan/Catalog/2651WM02_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd7e7c27e/images/Titan/Catalog/2651WM02_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb78a872f/images/Titan/Catalog/2651WM02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb78a872f/images/Titan/Catalog/2651WM02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0309616c/images/Titan/Catalog/2651WM02_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw658d06a2/images/Titan/Catalog/2651WM02_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 2095,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf36cbbb6/images/Titan/Catalog/2648NL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf36cbbb6/images/Titan/Catalog/2648NL01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc3b56620/images/Titan/Catalog/2648NL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwafd0bacd/images/Titan/Catalog/2648NL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf734eefa/images/Titan/Catalog/2648NL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw23eda54b/images/Titan/Catalog/2648NL01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 4475,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb7560c04/images/Titan/Catalog/2634WM05_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb7560c04/images/Titan/Catalog/2634WM05_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc8291de6/images/Titan/Catalog/2634WM05_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw10c7d9eb/images/Titan/Catalog/2634WM05_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw92b018a9/images/Titan/Catalog/2634WM05_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf6db3a41/images/Titan/Catalog/2634WM05_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 3400,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwab4e9e04/images/Titan/Catalog/2480WM02_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwab4e9e04/images/Titan/Catalog/2480WM02_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw19ef51b6/images/Titan/Catalog/2480WM02_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw4dceaa97/images/Titan/Catalog/2480WM02_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwab7c89cc/images/Titan/Catalog/2480WM02_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw860f82ca/images/Titan/Catalog/2480WM02_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw374e0aa8/images/Titan/Catalog/2480WM02_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 3795,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8c16e7ee/images/Titan/Catalog/2665WM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8c16e7ee/images/Titan/Catalog/2665WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw54a20627/images/Titan/Catalog/2665WM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd35c44d1/images/Titan/Catalog/2665WM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa5003d79/images/Titan/Catalog/2665WM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8c77acb1/images/Titan/Catalog/2665WM01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 5140,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw026f3f16/images/Titan/Catalog/2606WM08_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5487e70b/images/Titan/Catalog/2606WM08_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5487e70b/images/Titan/Catalog/2606WM08_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw16856d44/images/Titan/Catalog/2606WM08_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7e7917ca/images/Titan/Catalog/2606WM08_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0bd18d96/images/Titan/Catalog/2606WM08_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw95129e0b/images/Titan/Catalog/2606WM08_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw23cca3bf/images/Titan/Catalog/2606WM08_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 1455,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwbfab476b/images/Titan/Catalog/2598SM06_3.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwbfab476b/images/Titan/Catalog/2598SM06_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb0a5d577/images/Titan/Catalog/2598SM06_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8074acd3/images/Titan/Catalog/2598SM06_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dweefeeaaa/images/Titan/Catalog/2598SM06_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 4645,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6a13fc14/images/Helios/Catalog/KC50187001LD_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6a13fc14/images/Helios/Catalog/KC50187001LD_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8c20af72/images/Helios/Catalog/KC50187001LD_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw207e146b/images/Helios/Catalog/KC50187001LD_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9cf032b5/images/Helios/Catalog/KC50187001LD_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd19f8afb/images/Helios/Catalog/KC50187001LD_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 4285,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw881aa055/images/Titan/Catalog/2620QM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw881aa055/images/Titan/Catalog/2620QM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8a0ce11f/images/Titan/Catalog/2620QM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf35597e5/images/Titan/Catalog/2620QM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw49972c54/images/Titan/Catalog/2620QM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf07c37ec/images/Titan/Catalog/2620QM01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 7355,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5251904e/images/Titan/Catalog/2693WM01_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcb118765/images/Titan/Catalog/2693WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5251904e/images/Titan/Catalog/2693WM01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0b0d51c3/images/Titan/Catalog/2693WM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb024a6fe/images/Titan/Catalog/2693WM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw69c8050d/images/Titan/Catalog/2693WM01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwebc60e2c/images/Titan/Catalog/2693WM01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 13435,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdb10c825/images/Titan/Catalog/95136WM01_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9b00dc16/images/Titan/Catalog/95136WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdb10c825/images/Titan/Catalog/95136WM01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2feab798/images/Titan/Catalog/95136WM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3db288e1/images/Titan/Catalog/95136WM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9652e29c/images/Titan/Catalog/95136WM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw62af709f/images/Titan/Catalog/95136WM01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7e317d3d/images/Titan/Catalog/95136WM01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 13645,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9d41bc0d/images/Titan/Catalog/95032WM02J_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9d41bc0d/images/Titan/Catalog/95032WM02J_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf6b85f94/images/Titan/Catalog/95032WM02J_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw357c399f/images/Titan/Catalog/95032WM02J_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw462467f9/images/Titan/Catalog/95032WM02J_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw20a951ac/images/Titan/Catalog/95032WM02J_5.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 3515,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0d4979f1/images/Titan/Catalog/2622WM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0d4979f1/images/Titan/Catalog/2622WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6fa10655/images/Titan/Catalog/2622WM01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdc7ccea7/images/Titan/Catalog/2622WM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw06e624c0/images/Titan/Catalog/2622WM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw2a44029d/images/Titan/Catalog/2622WM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9f166e9c/images/Titan/Catalog/2622WM01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 1455,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw344dd852/images/Titan/Catalog/2598SM06_2.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw493ff1a2/images/Titan/Catalog/2598SM06_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw344dd852/images/Titan/Catalog/2598SM06_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb0a5d577/images/Titan/Catalog/2598SM06_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw8074acd3/images/Titan/Catalog/2598SM06_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dweefeeaaa/images/Titan/Catalog/2598SM06_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 10635,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd0c86039/images/Titan/Catalog/95150WM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwd0c86039/images/Titan/Catalog/95150WM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6925600d/images/Titan/Catalog/95150WM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw59937242/images/Titan/Catalog/95150WM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0aca5f15/images/Titan/Catalog/95150WM01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwbfef5b90/images/Titan/Catalog/95150WM01_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 5035,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdf124929/images/Titan/Catalog/2651WM05_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdf124929/images/Titan/Catalog/2651WM05_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw567fe75d/images/Titan/Catalog/2651WM05_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw92b9d216/images/Titan/Catalog/2651WM05_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7e824499/images/Titan/Catalog/2651WM05_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwffafcced/images/Titan/Catalog/2651WM05_6.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 2235,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3c2d5423/images/Titan/Catalog/2648WL01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3c2d5423/images/Titan/Catalog/2648WL01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfb19ce70/images/Titan/Catalog/2648WL01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf4a2d465/images/Titan/Catalog/2648WL01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwadcd0308/images/Titan/Catalog/2648WL01_5.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwa127e14b/images/Titan/Catalog/2648WL01_6.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3e377209/images/Titan/Catalog/2648WL01_7.jpg?sw=800&sh=800"
+    ]
+  },
+  {
+    "gender": "female",
+    "price": 6820,
+    "discountPercentage": 25,
+    "stock": 100,
+    "brand": "Titan",
+    "category": ["formal"],
+    "thumbnail": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7c7e11c2/images/Titan/Catalog/2539KM01_1.jpg?sw=800&sh=800",
+    "images": [
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7c7e11c2/images/Titan/Catalog/2539KM01_1.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb75b2f1e/images/Titan/Catalog/2539KM01_2.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwb987f73e/images/Titan/Catalog/2539KM01_3.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw80636f14/images/Titan/Catalog/2539KM01_4.jpg?sw=800&sh=800",
+      "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw115890fa/images/Titan/Catalog/2539KM01_5.jpg?sw=800&sh=800"
+    ]
+  }
+]

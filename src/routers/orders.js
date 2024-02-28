@@ -1,5 +1,5 @@
 import express from "express";
-import { authorized } from "../auth";
+import { authorized } from "../auth/index.js";
 import {
   createOrder,
   deleteOrder,

@@ -1,5 +1,4 @@
 import express from "express";
-import { authorized } from "../auth";
 import {
   createTodo,
   deleteTodo,

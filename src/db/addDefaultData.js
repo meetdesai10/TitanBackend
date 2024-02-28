@@ -1,6 +1,6 @@
 import Product from "../models/product.js";
 import User from "../models/user.js";
-import productdata from "../data/product.json";
+import productdata from "../data/product.json" assert { type: "json" };
 
 export async function AddAdmin() {
   try {

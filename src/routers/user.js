@@ -5,7 +5,6 @@ import {
   reset_passsword,
   sendotp,
   signIn,
-	console.log(": ", );
   signUp,
   updateUser,
 } from "../controler/user.js";

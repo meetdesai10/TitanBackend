@@ -3,8 +3,8 @@ import {
   createWishlist,
   getByUserId,
   updateWishlist,
-} from "../controler/wishlist";
-import { authorized } from "../auth";
+} from "../controler/wishlist.js";
+import { authorized } from "../auth/index.js";
 
 const wishListRouter = express.Router();
 

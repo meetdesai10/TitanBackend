@@ -3,7 +3,7 @@ import express from "express";
 import { Routes } from "./routers/index.js";
 import cors from "cors";
 import { dbConnection } from "./db/index.js";
-import { AddAdmin, AddProductData } from "./db/addDefaultData";
+import { AddAdmin, AddProductData } from "./db/addDefaultData.js";
 import { updateOldUser, updateOldUser2 } from "./db/script";
 import path from "path";
 import GoogkleAuth from "./GoogleAuth/googleAuth";

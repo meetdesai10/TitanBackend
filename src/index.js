@@ -1,4 +1,4 @@
-require("dotenv").config();
+import dotenv from "dotenv";
 import express from "express";
 import { Routes } from "./routers/index.js";
 import cors from "cors";
@@ -9,6 +9,7 @@ import http from "http";
 const app = express();
 const server = http.createServer(app);
 import pkg from "body-parser";
+dotenv.config();
 const { json } = pkg;
 
 import { Server } from "socket.io";

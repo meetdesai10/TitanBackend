@@ -1,6 +1,5 @@
 require("dotenv").config();
 import express, { Router } from "express";
-import Serverless from "twilio/lib/rest/Serverless";
 import { Routes } from "./routers";
 import cors from "cors";
 import { dbConnection } from "./db";

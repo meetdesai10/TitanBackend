@@ -4,20 +4,15 @@ import { Routes } from "./routers/index.js";
 import cors from "cors";
 import { dbConnection } from "./db/index.js";
 import { AddAdmin, AddProductData } from "./db/addDefaultData.js";
-import { updateOldUser, updateOldUser2 } from "./db/script";
 import path from "path";
-import GoogkleAuth from "./GoogleAuth/googleAuth";
 import http from "http";
 const app = express();
 const server = http.createServer(app);
 import { json } from "body-parser";
 
 import { Server } from "socket.io";
-import { cronJob } from "./functions/cronJob";
-import { sendEmailTemp } from "./functions/emailService";
 
 import passport from "passport";
-import moment from "moment/moment";
 import bodyParser from "body-parser";
 
 const port = process.env.PORT || 3000;

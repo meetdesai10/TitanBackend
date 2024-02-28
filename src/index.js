@@ -1,6 +1,6 @@
 require("dotenv").config();
-import express, { Router } from "express";
-import { Routes } from "./routers";
+import express from "express";
+import { Routes } from "./routers/index.js";
 import cors from "cors";
 import { dbConnection } from "./db";
 import { AddAdmin, AddProductData } from "./db/addDefaultData";

@@ -14,7 +14,10 @@ import multer from "multer";
 import path from "path";
 import { model } from "../models/index.js";
 
-const uploadFolder = path.join(__dirname, "..", "..", "assets");
+const importMetaUrl = new URL(import.meta.url);
+const currentModuleDir = path.dirname(importMetaUrl.pathname);
+
+const uploadFolder = path.join(currentModuleDir, "..", "..", "assets");
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
@@ -49,6 +52,7 @@ userRouter.post(
     res.status(200).send(req.file);
   }
 );
+
 userRouter.post(
   "/photos/upload",
   authorized,

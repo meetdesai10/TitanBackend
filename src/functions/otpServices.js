@@ -1,9 +1,8 @@
 import { emailService } from "./emailService.js";
 
-const client = require("twilio")(
-  process.env.TWILIO_KEY,
-  process.env.TWILIO_TOKEN
-);
+import twilio from "twilio";
+
+const client = twilio(process.env.TWILIO_KEY, process.env.TWILIO_TOKEN);
 
 export const sendOTP = (user) => {
   const otp = Math.trunc(Math.random() * 1000000);

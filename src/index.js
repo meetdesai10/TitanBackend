@@ -8,7 +8,8 @@ import path from "path";
 import http from "http";
 const app = express();
 const server = http.createServer(app);
-import { json } from "body-parser";
+import pkg from "body-parser";
+const { json } = pkg;
 
 import { Server } from "socket.io";
 

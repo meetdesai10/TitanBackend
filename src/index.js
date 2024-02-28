@@ -2,7 +2,7 @@ require("dotenv").config();
 import express from "express";
 import { Routes } from "./routers/index.js";
 import cors from "cors";
-import { dbConnection } from "./db";
+import { dbConnection } from "./db/index.js";
 import { AddAdmin, AddProductData } from "./db/addDefaultData";
 import { updateOldUser, updateOldUser2 } from "./db/script";
 import path from "path";

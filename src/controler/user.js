@@ -3,7 +3,7 @@ import { sendOTP } from "../functions/otpServices.js";
 
 import jwt from "jsonwebtoken";
 import bycrypt from "bcrypt";
-import { emailService } from "../functions/emailService";
+import { emailService } from "../functions/emailService.js";
 
 const useToken = (data) => {
   return jwt.sign(data, process.env.SECRET_KEY);

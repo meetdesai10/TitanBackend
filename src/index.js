@@ -13,7 +13,6 @@ import { json } from "body-parser";
 import { Server } from "socket.io";
 
 import passport from "passport";
-import bodyParser from "body-parser";
 
 const port = process.env.PORT || 3000;
 app.get(

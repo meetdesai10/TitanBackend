@@ -1,8 +1,8 @@
-import Product from "./product";
-import User from "./user";
-import Cart from "./cart";
-import WishList from "./wishlist";
-import Todo from "./todo";
+import Product from "./product.js";
+import User from "./user.js";
+import Cart from "./cart.js";
+import WishList from "./wishlist.js";
+import Todo from "./todo.js";
 
 export const model = {
   User,

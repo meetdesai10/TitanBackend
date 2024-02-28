@@ -1,4 +1,4 @@
-import { model } from "../models";
+import { model } from "../models/index.js";
 
 export const createWishlist = (req, res) => {
   req.body.userId = req?.loginUser?.id;

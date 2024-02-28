@@ -1,6 +1,4 @@
 import express from "express";
-import { model } from "../models";
-import { AdminAuth } from "../auth";
 import {
   createProduct,
   deleteProduct,
@@ -9,7 +7,7 @@ import {
   updateProduct,
   getAll,
   getAllPaginate,
-} from "../controler/product";
+} from "../controler/product.js";
 
 const productRouter = express.Router();
 

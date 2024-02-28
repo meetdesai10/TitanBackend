@@ -1,4 +1,4 @@
-import { model } from "../models";
+import { model } from "../models/index.js";
 
 export const createOrder = (req, res) => {
   model.Order.create(req?.body)

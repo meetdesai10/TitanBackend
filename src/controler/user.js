@@ -1,5 +1,5 @@
-import { model } from "../models";
-import { sendOTP } from "../functions/otpServices";
+import { model } from "../models/index.js";
+import { sendOTP } from "../functions/otpServices.js";
 
 import jwt from "jsonwebtoken";
 import bycrypt from "bcrypt";

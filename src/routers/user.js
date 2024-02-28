@@ -5,14 +5,15 @@ import {
   reset_passsword,
   sendotp,
   signIn,
+	console.log(": ", );
   signUp,
   updateUser,
-} from "../controler/user";
-import { AdminAuth, authorized } from "../auth";
+} from "../controler/user.js";
+import { AdminAuth, authorized } from "../auth/index.js";
 
 import multer from "multer";
 import path from "path";
-import { model } from "../models";
+import { model } from "../models/index.js";
 
 const uploadFolder = path.join(__dirname, "..", "..", "assets");
 

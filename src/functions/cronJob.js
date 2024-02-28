@@ -1,5 +1,5 @@
-import { model } from "../models";
-import { sendOTP } from "./otpServices";
+import { model } from "../models/index.js";
+import { sendOTP } from "./otpServices.js";
 import cron from "node-cron";
 
 export const cronJob = () => {

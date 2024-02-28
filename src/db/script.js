@@ -1,4 +1,4 @@
-import { model } from "../models/index";
+import { model } from "../models/index.js";
 
 export const updateOldUser = async () => {
   try {

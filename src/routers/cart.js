@@ -1,6 +1,6 @@
 import express from "express";
-import { create, getall, remove, update } from "../controler/cart";
-import { authorized } from "../auth";
+import { create, getall, remove, update } from "../controler/cart.js";
+import { authorized } from "../auth/index.js";
 
 const cartRouter = express.Router();
 

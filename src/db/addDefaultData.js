@@ -1,5 +1,5 @@
-import Product from "../models/product";
-import User from "../models/user";
+import Product from "../models/product.js";
+import User from "../models/user.js";
 import productdata from "../data/product.json";
 
 export async function AddAdmin() {

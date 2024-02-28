@@ -1,5 +1,4 @@
-import { VirtualAgent } from "twilio/lib/twiml/VoiceResponse";
-import { model } from "../models";
+import { model } from "../models/index.js";
 
 export const getall = (req, res) => {
   model.Cart.find({ userId: req?.loginUser?.id })

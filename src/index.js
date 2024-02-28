@@ -1,4 +1,4 @@
-import dotenv from "dotenv";
+require("dotenv").config();
 import express, { Router } from "express";
 import Serverless from "twilio/lib/rest/Serverless";
 import { Routes } from "./routers";
@@ -9,7 +9,6 @@ import { updateOldUser, updateOldUser2 } from "./db/script";
 import path from "path";
 import GoogkleAuth from "./GoogleAuth/googleAuth";
 import http from "http";
-dotenv.config();
 const app = express();
 const server = http.createServer(app);
 import { json } from "body-parser";
